@@ -17,7 +17,5 @@ let isLogin=true  //boolean=> true /false
 
 console.log(typeof"Saurabh");
 console.log(typeof undefined); // undefined
-console.log(typeof null); //ouput is object
-
-
-
+console.log(typeof null); //ouput is object          
+            
