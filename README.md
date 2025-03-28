@@ -2,17 +2,17 @@
 Welcome to the JavaScript Series repository! This repository contains a collection of JavaScript tutorials and code examples to help you learn and master JavaScript programming.
 
 Table of Contents
-Introduction
+1. Introduction
 
-Getting Started
+2. Getting Started
 
-Prerequisites
+3. Prerequisites
 
-Usage
+4. Usage
 
-Contributing
+5. Contributing
 
-License
+6. License
 
 Introduction
 This repository is a comprehensive series aimed at teaching JavaScript concepts from basics to advanced topics. Whether you're a beginner or looking to expand your knowledge, you'll find various code examples and challenges in this series.
@@ -22,15 +22,13 @@ To get started with this project, follow the steps below.
 
 Clone the Repository
 First, clone this repository to your local machine using the following command:
-
 bash
-Copy
 git clone https://github.com/Saurabhthakur023/Javascript_series.git
 Install Dependencies
 If there are any specific dependencies for the project (e.g., npm packages), install them using:
 
 bash
-Copy
+
 npm install
 Prerequisites
 Before running the code, make sure you have the following installed:
